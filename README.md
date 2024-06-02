@@ -51,3 +51,5 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 ## Screenshot & Link
+
+![Screenshot 2024-06-02 093908](https://github.com/SlayerK2024/ENoteTaker/assets/157855730/25565f94-352b-4d3b-8ca3-55b8760945e1)
